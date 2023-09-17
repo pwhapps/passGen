@@ -2,7 +2,7 @@
 
 Password generator provides users with 14 random characters (uppercase and lowercase letters, numbers, and symbols).
 
-#### **Version 1.0.0**
+#### **Version 1.1.0**
 
 ### Change log
 
@@ -12,8 +12,6 @@ Password generator provides users with 14 random characters (uppercase and lower
 
 Currently looking into the following:
 
-- Adding GUI.
-- Copy to clipboard functionality.
 - Password manager.
 
 ### Contributors 
